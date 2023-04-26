@@ -21,6 +21,7 @@ set (
     -Wduplicated-cond \
     -Wduplicated-branches \
     -Wlogical-op \
+    -Wnull-dereference \
     -Wuseless-cast \
     -Wdouble-promotion \
     -Wformat=2 \
